@@ -1,0 +1,4 @@
+enum ComputerUsage{
+  graphic,
+  development
+}
